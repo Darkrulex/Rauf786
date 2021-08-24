@@ -7,12 +7,6 @@
 # Embedded file name: aso
 __author__ = 'Rauf Ali'
 __copyright = 'All rights reserved . Copyright  Rauf Ali'
-
-try:
-    os.mkdir('/sdcard/ids')
-except OSError:
-    pass
-
 bd = random.randint(20000000.0, 30000000.0)
 sim = random.randint(20000, 40000)
 header = {'x-fb-connection-bandwidth': repr(bd), 'x-fb-sim-hni': repr(sim), 
