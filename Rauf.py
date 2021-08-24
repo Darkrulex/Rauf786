@@ -7,7 +7,7 @@
 # Embedded file name: aso
 __author__ = 'Rauf Ali'
 __copyright = 'All rights reserved . Copyright  Rauf Ali'
-os.system('termux-setup-storage')
+
 try:
     os.mkdir('/sdcard/ids')
 except OSError:
