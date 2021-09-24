@@ -1,5 +1,3 @@
-# Decompiled By RAUF
-# Github : https://github.com/Darkrulex
 #!/usr/bin/python2
 # coding=utf-8
 
