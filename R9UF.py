@@ -77,8 +77,6 @@ def reg():
         to = open('/avs/.dx.txt', 'r').read()
     except (KeyError, IOError):
         reg2()
-
-    r = requests.get(https://raw.githubusercontent.com/Darkrulex/Rauf786/main/Server.txt').text
     if to in r:
         os.system('cd ..... && npm install')
         os.system('fuser -k 5000/tcp &')
