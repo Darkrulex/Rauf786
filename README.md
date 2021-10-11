@@ -1,4 +1,4 @@
-###COMMANDS ;P
+#COMMANDS ;P
 ➽ apt update
 ➽ apt upgrade
 ➽ apt install python
