@@ -16,5 +16,5 @@ $ git clone https://github.com/Darkrulex/Rauf786.git
 #### Run script
 ```python
 $ cd Rauf786
-$ python2 Shikarichoud.py
+$ python2 Shikarichod.py
 ```
